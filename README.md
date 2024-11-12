@@ -187,3 +187,44 @@ Sure, here are answers to each of your questions:
      - **Pie Charts** for proportions
      - **Scatter Plots** for relationships
      - **Histograms** for frequency
+
+
+![image](https://github.com/user-attachments/assets/9b8811a2-d519-429d-a0cd-d5ebf56184ba)
+
+Here’s an overview of some of the commonly used graphs in machine learning, along with a brief description of their uses. For diagrams, I can guide you on how to create them using libraries like Matplotlib and Seaborn in Python if you need!
+
+---
+
+1. **Line Plot**: Used to track changes over time or continuous data. Useful for visualizing loss curves in model training.
+
+2. **Scatter Plot**: Shows relationships between two variables. Useful for understanding data distributions and correlations.
+
+3. **Histogram**: Displays the distribution of a single variable. Commonly used for understanding the frequency distribution of data points.
+
+4. **Box Plot**: Represents the distribution of data through quartiles. Useful for identifying outliers and data spread.
+
+5. **Bar Chart**: Compares categorical data. Helpful in comparing counts or frequencies across discrete categories.
+
+6. **Heatmap**: Shows values in a matrix with color coding. Often used for visualizing correlation matrices in feature selection.
+
+7. **Pair Plot**: A grid of scatter plots for all variable pairs. Useful for exploring relationships between multiple variables.
+
+8. **Violin Plot**: Combines box plot and density plot. Helps in understanding data distribution and density for each category.
+
+9. **Pie Chart**: Displays proportions of a whole. Less common in ML, but can show class distributions in classification problems.
+
+10. **Area Plot**: Similar to a line plot, but filled with color under the line. Useful for showing cumulative changes over time.
+
+11. **Density Plot**: Shows data distribution through a continuous probability density function. Useful for analyzing feature distribution.
+
+12. **3D Scatter Plot**: Extends scatter plot into three dimensions. Used for visualizing high-dimensional data patterns.
+
+13. **Bubble Chart**: A scatter plot where points are represented by circles of varying sizes. Useful for comparing three features at once (x, y, and size).
+
+14. **Radar Chart**: Displays multivariate data in a circular layout. Useful for comparing multiple variables for different categories.
+
+15. **Quiver Plot**: Shows vectors with direction and magnitude. Useful in physics or when plotting gradients or flow patterns in ML.
+
+---
+
+If you’d like to see diagrams for any of these specifically, I can help you create sample plots using Python code!
